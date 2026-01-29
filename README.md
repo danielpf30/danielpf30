@@ -1,4 +1,4 @@
-# Olá, eu sou o Daniel! 👋
+# Olá, me chamo Daniel! 👋
 
 Atualmente estou cursando **Análise e Desenvolvimento de Sistemas** no IFPB (Campus Cajazeiras).
 
