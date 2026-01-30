@@ -15,6 +15,7 @@ Meu objetivo é desenvolver aplicações que agreguem valor à vida das pessoas,
 <br>
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -24,6 +25,7 @@ Meu objetivo é desenvolver aplicações que agreguem valor à vida das pessoas,
 **Ferramentas e IDEs**
 <br>
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
@@ -38,9 +40,17 @@ Estou constantemente aprofundando meus conhecimentos em engenharia de software, 
 
 ---
 
+### 📊 Estatísticas
+
+<div align="center">
+  <a href="https://github.com/danielpf30">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danielpf30&show_icons=true&theme=dracula&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielpf30&layout=compact&theme=dracula"/>
+  </a>
+</div>
+
+---
 ### 📫 Contatos
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-parnaiba-6a338337a/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danielparnaiba1030@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danielparnaiba1030@gmail.com) **danielparnaiba1030@gmail.com**
 
-### 📊 Estatísticas
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=danielpf30&show_icons=true&theme=dracula)
