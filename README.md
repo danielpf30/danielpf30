@@ -19,6 +19,8 @@ Meu objetivo é desenvolver aplicações que agreguem valor à vida das pessoas,
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
+---
+
 **Ferramentas e IDEs**
 <br>
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -26,6 +28,19 @@ Meu objetivo é desenvolver aplicações que agreguem valor à vida das pessoas,
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 ---
+
+### 📚 Estudos e Melhoria Contínua
+Estou constantemente aprofundando meus conhecimentos em engenharia de software, focando em escrever código limpo e escalável.
+
+* **Arquitetura:** MVC, Monolito vs Microserviços
+* **Boas Práticas:** SOLID, Clean Code, Design Patterns
+* **Qualidade:** Code Smells, Refatoração
+
+---
+
+### 📫 Contatos
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-parnaiba-6a338337a/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danielparnaiba1030@gmail.com)
 
 ### 📊 Estatísticas
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=danielpf30&show_icons=true&theme=dracula)
