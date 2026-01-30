@@ -42,12 +42,9 @@ Estou constantemente aprofundando meus conhecimentos em engenharia de software, 
 
 ### 📊 Estatísticas
 
-<div align="center">
-  <a href="https://github.com/danielpf30">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danielpf30&show_icons=true&theme=dracula&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielpf30&layout=compact&theme=dracula"/>
-  </a>
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=danielpf30&show_icons=true&theme=dracula&include_all_commits=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielpf30&layout=compact&theme=dracula)
 
 ---
 ### 📫 Contatos
