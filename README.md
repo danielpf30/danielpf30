@@ -42,12 +42,14 @@ Estou constantemente aprofundando meus conhecimentos em engenharia de software, 
 
 ### 📊 Estatísticas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=danielpf30&show_icons=true&theme=dracula&include_all_commits=true)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=danielpf30&show_icons=true&theme=dracula&include_all_commits=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielpf30&layout=compact&theme=dracula)
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=danielpf30&layout=compact&theme=dracula)
 
 ---
+ 
 ### 📫 Contatos
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-parnaiba-6a338337a/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danielparnaiba1030@gmail.com) **danielparnaiba1030@gmail.com**
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danielparnaiba1030@gmail.com)  
+**danielparnaiba1030@gmail.com**
 
