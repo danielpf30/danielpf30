@@ -37,7 +37,7 @@ Meu objetivo é desenvolver aplicações que agreguem valor à vida das pessoas,
 
 ---
 
-### 🚀 Destaques Acadêmicos
+### 🚀 Destaques Acadêmicos/Pessoais
 
 **🛒 Sistema de Gerenciamento de Loja (Java)**
 > *Projeto desenvolvido durante a graduação no IFPB.*
