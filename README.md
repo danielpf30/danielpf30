@@ -13,16 +13,22 @@ Meu objetivo é desenvolver aplicações que agreguem valor à vida das pessoas,
 
 **Linguagens e Frameworks**
 <br>
+<br>
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+<br>
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ---
 
 **Ferramentas e IDEs**
+<br>
 <br>
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
@@ -31,12 +37,38 @@ Meu objetivo é desenvolver aplicações que agreguem valor à vida das pessoas,
 
 ---
 
-### 📚 Estudos e Melhoria Contínua
-Estou constantemente aprofundando meus conhecimentos em engenharia de software, focando em escrever código limpo e escalável.
+### 🚀 Destaques Acadêmicos
 
-* **Arquitetura:** MVC, Monolito vs Microserviços
+**🛒 Sistema de Gerenciamento de Loja (Java)**
+> *Projeto desenvolvido durante a graduação no IFPB.*
+
+Aplicação desktop para gerenciamento comercial, focada na aplicação prática de arquitetura de software.
+* **Arquitetura:** MVC (Model-View-Controller), Arquitetura em Camadas (Service-Dao)
+* **Destaque:** Implementação rigorosa da separação de responsabilidades entre View, Controller e Model.
+* **Tecnologias:** Java, POO, Git.
+* [🔗 **Acessar Repositório**](https://github.com/danielpf30/projeto-final-auto-prime-veiculos-ltda)
+
+---
+
+**📦 API de Catálogo de Produtos**
+> *Projeto prático de estudo focado no ecossistema Spring.*
+
+Desenvolvimento de uma API RESTful para gerenciamento de produtos.
+* **Tecnologias:** Java 21, Spring Boot, Spring Data JPA,Spring WEB, H2 Database.
+* **Destaques:**
+    * Persistência de dados com **H2** (Banco em memória).
+    * Estrutura organizada em Camadas (Controller, Service, Repository).
+* [🔗 **Acessar Repositório**](https://github.com/danielpf30/backend-ecommerce)
+
+---
+
+### 📚 Estudos e Melhoria Contínua
+Estou constantemente aprofundando meus conhecimentos em **Desenvolvimento Back-end com Java e Spring** e em engenharia de software, focando em escrever código limpo e escalável.
+
+* **Java & Spring:** API RESTful, Spring Data JPA, Injeção de Dependência (IoC), Tratamento de Exceções
+* **Arquitetura:** MVC, Arquitetura em Camadas, Arquitetura Hexagonal (Ports and Adapters), Monolito vs Microserviços
 * **Boas Práticas:** SOLID, Clean Code, Design Patterns
-* **Qualidade:** Code Smells, Refatoração
+* **Qualidade:** Code Smells, Refatoração, Testes Unitários (JUnit)
 
 ---
  
