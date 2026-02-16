@@ -46,7 +46,7 @@ Aplicação desktop para gerenciamento comercial, focada na aplicação prática
 * **Arquitetura:** MVC (Model-View-Controller), Arquitetura em Camadas (Service-Dao)
 * **Destaque:** Implementação rigorosa da separação de responsabilidades entre View, Controller e Model.
 * **Tecnologias:** Java, POO, Git.
-* [🔗 **Acessar Repositório**](https://github.com/danielpf30/projeto-final-auto-prime-veiculos-ltda)
+* [🔗 **Acessar Repositório**](https://github.com/POO-ADS-IFPB-CZ/projeto-final-auto-prime-veiculos-ltda.git)
 
 ---
 
