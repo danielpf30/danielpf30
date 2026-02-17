@@ -45,7 +45,7 @@ Meu objetivo é desenvolver aplicações que agreguem valor à vida das pessoas,
 Aplicação desktop para gerenciamento comercial, focada na aplicação prática de arquitetura de software.
 * **Arquitetura:** MVC (Model-View-Controller), Arquitetura em Camadas (Service-Dao)
 * **Destaque:** Implementação rigorosa da separação de responsabilidades entre View, Controller e Model.
-* **Tecnologias:** Java, POO, Git.
+* **Tecnologias:** Java, Swing, POO, Git.
 * [🔗 **Acessar Repositório**](https://github.com/POO-ADS-IFPB-CZ/projeto-final-auto-prime-veiculos-ltda.git)
 
 ---
