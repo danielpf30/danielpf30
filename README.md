@@ -1,21 +1,20 @@
 # Olá, me chamo Daniel! 👋
 
-Atualmente estou cursando **Análise e Desenvolvimento de Sistemas** no IFPB (Campus Cajazeiras).
+Estudante de Análise e Desenvolvimento de Sistemas no IFPB – Campus Cajazeiras, com foco em Desenvolvimento Backend Java e Arquitetura de Software.
 
-Sou um entusiasta em **Desenvolvimento Back-end** e **Arquitetura de Software**. Acredito que ser um programador vai muito além de apenas escrever linhas de código: é preciso pensar nas necessidades reais de quem usa o sistema.
+Acredito que desenvolver software vai além de escrever código: envolve entender o problema, projetar soluções escaláveis e manter qualidade ao longo do tempo.
 
-Meu objetivo é desenvolver aplicações que agreguem valor à vida das pessoas, garantindo:
-* ✅ Satisfação
-* 🚀 Eficiência
-* 🔒 Segurança
+Meu objetivo é construir aplicações robustas, bem estruturadas e preparadas para crescer.
 
 ---
 
-**Linguagens e Frameworks**
-<br>
+## 🚀 Stack Principal
+
+**Linguagens e Frameworks** 
 <br>
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/spring_boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%234169e1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -25,16 +24,28 @@ Meu objetivo é desenvolver aplicações que agreguem valor à vida das pessoas,
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
----
+**Arquitetura & Boas Práticas** 
+<br>
+![Arquitetura em Camadas](https://img.shields.io/badge/Arquitetura_em_Camadas-%232C2255.svg?style=for-the-badge)
+![MVC](https://img.shields.io/badge/MVC-%23E34F26.svg?style=for-the-badge)
+![Arquitetura Hexagonal](https://img.shields.io/badge/Arquitetura_Hexagonal-%238C1515.svg?style=for-the-badge)
+![SOLID](https://img.shields.io/badge/SOLID-%231572B6.svg?style=for-the-badge)
+![Clean Code](https://img.shields.io/badge/Clean_Code-%231E2326.svg?style=for-the-badge)
+![Design Patterns](https://img.shields.io/badge/Design_Patterns-%23FFB000.svg?style=for-the-badge)
 
-**Ferramentas e IDEs**
+**Qualidade** 
 <br>
-<br>
+![JUnit 5](https://img.shields.io/badge/Junit5-%2325A162.svg?style=for-the-badge&logo=junit5&logoColor=white)
+![Mockito](https://img.shields.io/badge/Mockito-%23000000.svg?style=for-the-badge)
+![Testes de Integração](https://img.shields.io/badge/Testes_de_Integração-%23E0234E.svg?style=for-the-badge)
+
+**Ferramentas**
+<br> 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-
+![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-%23000000.svg?style=for-the-badge&logo=intellijidea&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-%230078D4.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ---
 
 ### 🚀 Destaques Acadêmicos/Pessoais
@@ -50,25 +61,28 @@ Aplicação desktop para gerenciamento comercial, focada na aplicação prática
 
 ---
 
-**📦 API de Catálogo de Produtos**
-> *Projeto prático de estudo focado no ecossistema Spring.*
+**📦 To-Do List API(Java 21 + Spring Boot)**
+> *Projeto focado em boas práticas de engenharia de software e backend robusto.*
 
-Desenvolvimento de uma API RESTful para gerenciamento de produtos.
-* **Tecnologias:** Java 21, Spring Boot, Spring Data JPA,Spring WEB, H2 Database.
+API RESTful para gerenciamento de tarefas, desenvolvida para demonstrar domínio sobre o ciclo de vida do Spring Boot sem dependência de ORMs.
+* **Arquitetura:** Arquitetura em Camadas (Layered Architecture), Padrão DTO, Injeção de Dependência.
+* **Tecnologias:** Java 21, Spring Boot 3, PostgreSQL, Docker, JUnit 5.
 * **Destaques:**
-    * Persistência de dados com **H2** (Banco em memória).
-    * Estrutura organizada em Camadas (Controller, Service, Repository).
-* [🔗 **Acessar Repositório**](https://github.com/danielpf30/backend-ecommerce)
+    * Persistência otimizada com JdbcTemplate (SQL Nativo).
+    * validação de dados (Bean Validation) e testes automatizados (Unitários e Fatiados).
+* [🔗 **Acessar Repositório**](https://github.com/danielpf30/task-manager-jdbc.git)
 
 ---
 
-### 📚 Estudos e Melhoria Contínua
-Estou constantemente aprofundando meus conhecimentos em **Desenvolvimento Back-end com Java e Spring** e em engenharia de software, focando em escrever código limpo e escalável.
+## 📚 Em constante evolução
 
-* **Java & Spring:** API RESTful, Spring Data JPA, Injeção de Dependência (IoC), Tratamento de Exceções
-* **Arquitetura:** MVC, Arquitetura em Camadas, Arquitetura Hexagonal (Ports and Adapters), Monolito vs Microserviços
-* **Boas Práticas:** SOLID, Clean Code, Design Patterns
-* **Qualidade:** Code Smells, Refatoração, Testes Unitários (JUnit)
+Atualmente aprofundando estudos em:
+
+- Spring Boot avançado
+- Arquitetura de Software
+- Testes automatizados
+- Docker
+- Fundamentos de Cloud Computing
 
 ---
  
