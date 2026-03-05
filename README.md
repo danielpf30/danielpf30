@@ -6,6 +6,9 @@ Acredito que desenvolver software vai além de escrever código: envolve entende
 
 Meu objetivo é construir aplicações robustas, bem estruturadas e preparadas para crescer.
 
+
+**🎯 Buscando oportunidades como desenvolvedor backend — estágio ou júnior — onde possa aplicar arquitetura de software e boas práticas no mundo real.**
+
 ---
 
 ## 🚀 Stack Principal
@@ -86,7 +89,7 @@ Atualmente aprofundando estudos em:
 - Fundamentos de Cloud Computing
 
 ---
- 
+
 ### 📫 Contatos
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-parnaiba-6a338337a/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=danielparnaiba1030@gmail.com)
