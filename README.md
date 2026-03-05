@@ -53,9 +53,11 @@ Meu objetivo é construir aplicações robustas, bem estruturadas e preparadas p
 > *Projeto desenvolvido durante a graduação no IFPB.*
 
 Aplicação desktop para gerenciamento comercial, focada na aplicação prática de arquitetura de software.
-* **Arquitetura:** MVC (Model-View-Controller), Arquitetura em Camadas (Service-Dao)
-* **Destaque:** Implementação rigorosa da separação de responsabilidades entre View, Controller e Model.
+* **Arquitetura:** MVC (Model-View-Controller), Arquitetura em Camadas (Service-Dao).
 * **Tecnologias:** Java, Swing, POO, Git.
+* **Destaque:**
+    * Gestão de Dados "Na Mão": A lógica de busca, atualização de instâncias e prevenção de duplicatas foi feita utilizando as estruturas de dados nativas do Java.
+    * Abstração com GenericDAO: Para a persistência, criamos um motor próprio de leitura e gravação de arquivos. Através da classe `GenericDAO<T>`, utilizamos tipagem genérica para que qualquer entidade do sistema (Veículos, Clientes, Funcionários) possa ser serializada e desserializada em arquivos `.bin`, garantindo um código limpo, coeso e reutilizável.
 * [🔗 **Acessar Repositório**](https://github.com/POO-ADS-IFPB-CZ/projeto-final-auto-prime-veiculos-ltda.git)
 
 ---
