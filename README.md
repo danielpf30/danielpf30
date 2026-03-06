@@ -30,7 +30,6 @@ Meu objetivo é construir aplicações robustas, bem estruturadas e preparadas p
 <br>
 ![Arquitetura em Camadas](https://img.shields.io/badge/Arquitetura_em_Camadas-%232C2255.svg?style=for-the-badge)
 ![MVC](https://img.shields.io/badge/MVC-%23E34F26.svg?style=for-the-badge)
-![Arquitetura Hexagonal](https://img.shields.io/badge/Arquitetura_Hexagonal-%238C1515.svg?style=for-the-badge)
 ![SOLID](https://img.shields.io/badge/SOLID-%231572B6.svg?style=for-the-badge)
 ![Clean Code](https://img.shields.io/badge/Clean_Code-%231E2326.svg?style=for-the-badge)
 ![Design Patterns](https://img.shields.io/badge/Design_Patterns-%23FFB000.svg?style=for-the-badge)
