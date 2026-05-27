@@ -38,7 +38,7 @@ Meu objetivo é construir aplicações robustas, bem estruturadas e preparadas p
 <br>
 ![JUnit 5](https://img.shields.io/badge/Junit5-%2325A162.svg?style=for-the-badge&logo=junit5&logoColor=white)
 ![Mockito](https://img.shields.io/badge/Mockito-%23000000.svg?style=for-the-badge)
-![Testes de Integração](https://img.shields.io/badge/Testes_de_Integração-%23E0234E.svg?style=for-the-badge)
+![Testes Automatizados](https://img.shields.io/badge/Testes_de_Integração-%23E0234E.svg?style=for-the-badge)
 
 **Ferramentas**
 <br> 
